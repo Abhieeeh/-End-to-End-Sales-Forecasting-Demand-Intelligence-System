@@ -1,5 +1,7 @@
 # End-to-End Sales Forecasting & Demand Intelligence System
 
+Live Demo : [Dashboard](https://eyuf77joqbu5uxkdqvpxxa.streamlit.app/)
+
 An interactive, premium-designed Streamlit web application built to analyze sales performance, forecast future demand, detect weekly sales anomalies, and segment product sub-categories.
 
 ---
